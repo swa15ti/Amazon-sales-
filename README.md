@@ -1,2 +1,10 @@
 # Amazon-sales-
-In this project I  have find the Total revenue,total sales, type of product, and demand of product in session...etc finds with the help of SQL queries.
+.Sales trends across different time periods and regions.
+.The effectiveness of existing sales strategies.
+.Identify periods of high and low performance.
+.Identifying customer segments based on demographics, purchasing behavior, etc.
+.Analyzing purchase trends over time.
+.Evaluating the profitability of each segment.
+.Personalizing marketing efforts.
+.Improving customer retention.
+.Maximizing lifetime value of different customer groups.
